@@ -1,0 +1,12 @@
+Player scored 8 points in snake game!
+Player scored 10 points in hangman game!
+Player scored 10 points in hangman game!
+Player scored 10 points in hangman game! LOST!!!
+Player scored 7 points in snake game!
+Player scored 4 points in snake game!
+Player scored 0 points in hangman game! LOST!!!
+Player scored 0 points in hangman game! LOST!!!
+Player scored 0 points in hangman game! LOST!!!
+Player scored 10 points in wordle game!
+Player scored 10 points in wordle game!
+Player scored 0 points in hangman game! LOST!!!
